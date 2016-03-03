@@ -1,0 +1,19 @@
+#intro {
+  background: url(../Img/rookie.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.content{
+  position:relative;
+  height:3000px;
+  background-color:black;
+}
+body{
+  align:center;
+  font-size:24px;
+}

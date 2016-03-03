@@ -1,0 +1,18 @@
+#intro {
+  background: url(../Img/lakers.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -35px;
+}
+.content{
+  position:relative;
+  height:3000px;
+  background-color:black;
+}
+body{
+  align:center;
+}

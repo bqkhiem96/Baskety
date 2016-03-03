@@ -1,3 +1,4 @@
+
 <nav class="navbar navbar-inverse navbar-fixed-top" id="navbar">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -22,22 +23,14 @@
         <li class="">
           <a href="schedule.php">Schedule<span class="sr-only">(current)</span></a>
         </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MORE <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li>
-              <a href="Biography.php">Biography</a>
-            </li>
-            <li>
-              <a href="TheFirstEra.php">The First Era</a>
-            </li>
-            <li>
-              <a href="HighSchoolyear.php" >High school Year</a>
-            </li>
-            <li>
-              <a href="#" >Highlight</a>
-            </li>
-          </ul>
+        <li class="active">
+          <a href="newspage.php">Basketball News<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="active">
+          <a href="#">Golden State Warriors<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="active">
+          <a href="#">Gallery<span class="sr-only">(current)</span></a>
         </li>
       </ul>
       <!-- <form class="navbar-form navbar-left" role="search">
@@ -49,6 +42,9 @@
       <ul class="nav navbar-nav navbar-right">
         <li>
           <a href="register.php">SUBCRIBE</a>
+        </li>
+        <li>
+          <a href="login.php">Login</a>
         </li>
 
           </ul>
