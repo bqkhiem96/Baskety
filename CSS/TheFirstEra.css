@@ -1,0 +1,17 @@
+#intro {
+  background: url(../Img/Kobe-dunk.png);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content{
+  position:relative;
+  height:3000px;
+  background-color:black;
+}
+body{
+  align:center;
+}

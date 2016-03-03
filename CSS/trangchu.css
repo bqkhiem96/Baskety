@@ -1,0 +1,9 @@
+body{
+  background-color:black;
+
+}
+.col-md-12{
+  background-picture:url("img/maxresdefault3.jpg");
+  background-size:cover;
+  
+}
